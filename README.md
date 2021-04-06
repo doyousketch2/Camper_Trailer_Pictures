@@ -5,7 +5,7 @@ This "sin() cos()" app is something I wrote to pose people in, for drawing.
 Wasn't originally intended to be a CAD program,  
 but parts of it are truly leaning toward that.  
 
-Wrote a tapered-draw routine a few times;  wrecks my brain.  
+Wrote a tapered-draw routine, for fleshy bits, a few times;  completely wrecks my brain.  
 Succeeded at it in PovRay, but then that computer died on me, so having to write it again.  
 
 PovRay's great, but render times take a while, so progress is slow there.  
@@ -19,7 +19,7 @@ which, while that's handy, you'd have to have new hardware to do it.
 It's fine if that's available, but the thought is:  
 to run on something like a RPi, where memory and all that, is constrained.  
 
-SDL2 looked like a good cantidate.  Both Love2D and PyGame use it, as do others,  
+**SDL2** looked like a good cantidate.  Both Love2D and PyGame use it, as do others,  
 so I was already somewhat familar with it.  
 
 Attempted to write this in Lua, but it was missing a couple draw routines;  
