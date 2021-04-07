@@ -42,8 +42,9 @@ Figured I'd write in object modelling routines, the thought being:
 that you can then pose people in buildings and whatnot,  
 give them surroundings, and objects to interact with.  
 
-While that's tricky, everyday objects are way easier to do than people.  
-Mostly trig & perspective.  Easier to imagine, than to write.  
-Even if the math doesn't stump ya, you sometimes run into programming gotcha's,  
+While that's tricky, everyday static objects are way easier to program than people.  
+Mostly trig & perspective.  Math tends to be easier to imagine, than to write.  
+
+Even if it doesn't stump ya, you sometimes run into programming gotcha's,  
 like needing to deepcopy contents of a list, in order to mirror across an axis.  
 You wouldn't expect that initially, but hindsight.  
